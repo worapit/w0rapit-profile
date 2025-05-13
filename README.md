@@ -7,7 +7,7 @@ Let’s connect and create something awesome! ✨
 
 </p>
 
-- 🌱 I’m currently learning **Prompt Engineering for Generative AI**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on **UX/UI design projects with social impact or educational technology**
 
