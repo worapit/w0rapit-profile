@@ -9,7 +9,7 @@ Let’s connect and create something awesome! ✨
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👯 I’m looking to collaborate on **UX/UI design projects with social impact or educational technology**
+- 👯 I’m looking to collaborate on **UX/UI design projects with social impact**
 
 - 👨‍💻 All of my UX/UI projects are available at [w0rapit.vercel.app](w0rapit.vercel.app)
 
