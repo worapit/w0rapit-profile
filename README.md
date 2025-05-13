@@ -1,5 +1,11 @@
-<h1 align="center">Hi there! 👋, I'm Dream (Worapitcha Muangyot)</h1>
-<p align="left">a UX/UI Designer with a degree in Computer Engineering. Driven by a passion for creating intuitive, user-centered interfaces that solve real-world problems, I thrive on challenges and leverage my technical background to design functional, visually engaging experiences. From research and wireframes to high-fidelity UI, I use tools like Figma to craft seamless designs that enhance usability and align with business goals. I’m committed to constantly learning, pushing the boundaries of design, and seeking innovative ways to improve. Beyond design, I’m also an artist, exploring illustration and composition to fuel my creativity. 🧑🏻‍🎨🎨 Let’s connect! ✨</p>
+<h1 align="center">Hi there! 👋 I'm Dream (Worapitcha Muangyot)</h1> <p align="left"> I'm a UX/UI Designer with a background in Computer Engineering. I love creating intuitive, user-friendly interfaces that solve real-world problems. My technical roots help me design experiences that are not only beautiful but also functional and effective.<br><br>
+From user research and wireframes to high-fidelity UIs, I use tools like Figma to bring ideas to life. I care deeply about usability, accessibility, and making sure design aligns with business goals.<br><br>
+
+I'm always learning, experimenting, and looking for new ways to improve. Outside of design, I’m also an artist who enjoys illustration and composition—it keeps my creativity flowing. 🎨<br><br>
+
+Let’s connect and create something awesome! ✨
+
+</p>
 
 - 🌱 I’m currently learning **Prompt Engineering for Generative AI**
 
